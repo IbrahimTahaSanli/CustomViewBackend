@@ -1,0 +1,327 @@
+[
+  {
+    "ID": "c30906e4eb1b605d76c638a46c4ecb4e",
+    "Name": "Copy Of Default",
+    "View": [
+      {
+        "CustomViewType": "Header",
+        "Properties": {
+          "Text": "Custom view örnasdsadek"
+        }
+      },
+      {
+        "CustomViewType": "Combobox",
+        "Properties": {
+          "Header": "Combobox",
+          "Code": [
+            "a",
+            "b",
+            "c"
+          ],
+          "Text": [
+            "ilk",
+            "ikinci",
+            "üçüncü"
+          ]
+        }
+      },
+      {
+        "CustomViewType": "TextInput",
+        "Properties": {
+          "Header": "TextInput"
+        }
+      },
+      {
+        "CustomViewType": "TextInput",
+        "Properties": {
+          "Header": "TextInput2"
+        }
+      }
+    ]
+  },
+  {
+    "ID": "84c817750dcabe565a90255a6afe458e",
+    "Name": "Default",
+    "View": [
+      {
+        "CustomViewType": "Header",
+        "Properties": {
+          "Text": "Custom view örnek"
+        }
+      },
+      {
+        "CustomViewType": "Combobox",
+        "Properties": {
+          "Header": "Combobox",
+          "Code": [
+            "a",
+            "b",
+            "c"
+          ],
+          "Text": [
+            "ilk",
+            "ikinci",
+            "üçüncü"
+          ]
+        }
+      },
+      {
+        "CustomViewType": "TextInput",
+        "Properties": {
+          "Header": "TextInput"
+        }
+      },
+      {
+        "CustomViewType": "TextInput",
+        "Properties": {
+          "Header": "TextInput2"
+        }
+      }
+    ]
+  },
+  {
+    "ID": "9ae19ab11594dff7112823580fd1e4ba",
+    "Name": "CustomView1",
+    "View": [
+      {
+        "CustomViewType": "Header",
+        "Properties": {
+          "Text": "Custom View Örnek"
+        }
+      },
+      {
+        "CustomViewType": "TextInput",
+        "Properties": {
+          "Header": "Text Input"
+        }
+      },
+      {
+        "CustomViewType": "Combobox",
+        "Properties": {
+          "Header": "ComboBox",
+          "Code": [
+            "a",
+            "b",
+            "c"
+          ],
+          "Text": [
+            "ilk",
+            "ikinci",
+            "ucuncu"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "ID": "9ae19ab11594dff7112823580fd1e4be",
+    "Name": "NewScreenTest",
+    "View": [
+      {
+        "CustomViewType": "Header",
+        "Properties": {
+          "Text": "NewScreenTest"
+        }
+      },
+      {
+        "CustomViewType": "TextInput",
+        "Properties": {
+          "Header": "Text Input"
+        }
+      },
+      {
+        "CustomViewType": "NewScreen",
+        "Properties": {
+          "ScreenName": "NewScreenTest",
+          "ScreenView":[
+            {
+              "CustomViewType": "Combobox",
+              "Properties": {
+                "Header": "ComboBox",
+                "Code": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "Text": [
+                  "ilk",
+                  "ikinci",
+                  "ucuncu"
+                ]
+              }
+            },
+            {
+              "CustomViewType": "Combobox",
+              "Properties": {
+                "Header": "ComboBox",
+                "Code": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "Text": [
+                  "ilk",
+                  "ikinci",
+                  "ucuncu"
+                ]
+              }
+            },
+            {
+              "CustomViewType": "Combobox",
+              "Properties": {
+                "Header": "ComboBox",
+                "Code": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "Text": [
+                  "ilk",
+                  "ikinci",
+                  "ucuncu"
+                ]
+              }
+            }
+          ]
+          
+        }
+      }
+      
+    ]
+  },
+  {
+    "ID": "9ae19ab11594dfaad12823580fd1e4be",
+    "Name": "NewScreenTest2",
+    "View": [
+      {
+        "CustomViewType": "Header",
+        "Properties": {
+          "Text": "NewScreenTest2"
+        }
+      },
+      {
+        "CustomViewType": "TextInput",
+        "Properties": {
+          "Header": "Text Input"
+        }
+      },
+      {
+        "CustomViewType": "NewScreen",
+        "Properties": {
+          "ScreenName": "NewScreenTestInnerScreen1",
+          "ScreenView":[
+            {
+              "CustomViewType": "Combobox",
+              "Properties": {
+                "Header": "ComboBox",
+                "Code": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "Text": [
+                  "ilk",
+                  "ikinci",
+                  "ucuncu"
+                ]
+              }
+            },
+            {
+              "CustomViewType": "Combobox",
+              "Properties": {
+                "Header": "ComboBox",
+                "Code": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "Text": [
+                  "ilk",
+                  "ikinci",
+                  "ucuncu"
+                ]
+              }
+            },
+            {
+              "CustomViewType": "Combobox",
+              "Properties": {
+                "Header": "ComboBox",
+                "Code": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "Text": [
+                  "ilk",
+                  "ikinci",
+                  "ucuncu"
+                ]
+              }
+            },
+            {
+              "CustomViewType": "Header",
+              "Properties": {
+                "Text": "NewScreenTestInnerScreen1"
+              }
+            }
+          ]
+          
+        }
+      },
+      {
+        "CustomViewType": "NewScreen",
+        "Properties": {
+          "ScreenName": "NewScreenTestInnerScreen2",
+          "ScreenView":[
+            {
+              "CustomViewType": "Combobox",
+              "Properties": {
+                "Header": "ComboBox",
+                "Code": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "Text": [
+                  "ilk",
+                  "ikinci",
+                  "ucuncu"
+                ]
+              }
+            },
+            {
+              "CustomViewType": "TextInput",
+              "Properties": {
+                "Header": "Text Input"
+              }
+            },
+            {
+              "CustomViewType": "Combobox",
+              "Properties": {
+                "Header": "Combobox",
+                "Code": [
+                  "a",
+                  "b",
+                  "c"
+                ],
+                "Text": [
+                  "ilk",
+                  "ikinci",
+                  "ucuncu"
+                ]
+              }
+            },
+            {
+              "CustomViewType": "Header",
+              "Properties": {
+                "Text": "NewScreenTestInnerScreen2"
+              }
+            }
+          ]
+          
+        }
+      }
+      
+    ]
+  }
+]
